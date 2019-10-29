@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "dev": "next"
+  },
+  "dependencies": {
+    "@zeit/swr": "^0.0.2",
+    "next": "^9.1.1",
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0"
+  }
+}
